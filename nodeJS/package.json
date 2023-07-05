@@ -1,0 +1,18 @@
+{
+  "name": "first_example",
+  "version": "1.0.0",
+  "description": "First NodeJS project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saiprasad Lokhande",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "superheroes": "^3.0.0"
+  },
+  "devDependencies": {
+    "pstree.remy": "^1.1.0"
+  }
+}
